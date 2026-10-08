@@ -26,7 +26,7 @@ Challenges and Future Improvements
 Challenges: Managing the light and dark mode compatibility across different devices.
 Future Improvements: Add options for categorizing tasks, setting reminders, and syncing with other devices.
 
-
+cool stuff
 
 
 yeah this was my first notetaking app thing and yes an hackathon online actually had this as a porblem statement 
